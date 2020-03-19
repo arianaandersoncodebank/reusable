@@ -56,6 +56,7 @@ $(document).ready(function() {
  
   $("#owl-example").owlCarousel({
 	  autoPlay:3000,
+	  stopOnHover:true,
 	  loop: true,
 	  dots: true,
       itemsDesktop : [1499,4],
@@ -76,7 +77,7 @@ $(document).ready(function() {
 
 <!----------------
 
-
+http://www.landmarkmlp.com/js-plugin/owl.carousel/
 https://codepen.io/glebkema/pen/GqbWYd
 
 google==options and callback functions in owl carousel
